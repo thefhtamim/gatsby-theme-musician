@@ -1,10 +1,9 @@
-- title: Sample Release 1
-  date: 2014-01-01
-  release_type: Album
-  image: "./images/placeholder.jpg"
+- title: Flavia
+  date: 2021-05-30
+  release_type: Single
   links:
-    - name: Discogs
-      url: https://discogs.com
+    - name: Stream Now
+      url: https://ffm.to/soh4400-flavia
 
 - title: Sample Release 2
   date: 2018-01-01
